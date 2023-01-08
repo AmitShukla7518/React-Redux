@@ -23,6 +23,7 @@
                          ()=>{props.addToCartHandler({pice:1000,name:'i phone 11'})}
                          }>
                         Add To Cart</button>
+                        <button> Remove to Cart</button>
                  </div>
              </div>
          </div>
